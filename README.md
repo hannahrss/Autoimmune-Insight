@@ -3,7 +3,7 @@
 AI-powered autoimmune health application that tracks health, predicts autoimmune flares and provides actionable insights.
 
 ## Project Description
-Autoimmune Insight is an data-drive full stack health application designed for people with autoimmune disorders such as Hashimoto's Thyroiditis. The app tracks daily symptoms, lifestyle habits, wearable data, predicts flare ups using machine learning and provides AI-powered insights. Its goal is to help users anticipate symptom spikes, identify triggers, and communicate trends with their healthcare providers.
+Autoimmune Insight is an data-driven full stack health application designed for people with autoimmune disorders such as Hashimoto's Thyroiditis. The app tracks daily symptoms, lifestyle habits, wearable data, predicts flare ups using machine learning and provides AI-powered insights. Its goal is to help users anticipate symptom spikes, identify triggers, and communicate trends with their healthcare providers.
 
 ## Features
 - Health tracking: food, symptoms, exercise, sleep
