@@ -1,1 +1,1 @@
-# AutoImmune-Recovery-Coach
+# Autoimmune Insight (AI)
