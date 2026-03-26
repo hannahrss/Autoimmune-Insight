@@ -1,5 +1,4 @@
-# Autoimmune Insight (AI)
-
+# Autoimmune Insight (AI) loading...
 AI-powered autoimmune health application that tracks health, predicts autoimmune flares and provides actionable insights.
 
 ## Project Description
